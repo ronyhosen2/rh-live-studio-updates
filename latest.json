@@ -1,1 +1,7 @@
-{"versionCode": 13, "versionName": "1.7.0", "apkUrl": "https://github.com/ronyhosen2/rh-live-studio-updates/releases/latest/download/RHLiveStudio.apk", "notesEn": "A premium new look: deep indigo theme, glass cards, glossy buttons — same app, same features, just far more polished. Plus AUTO mode from before: the stream matches your video by itself.", "notesBn": "নতুন প্রিমিয়াম লুক: গাঢ় ইন্ডিগো থিম, গ্লাস কার্ড, গ্লসি বাটন — অ্যাপ একই, ফিচার একই, শুধু দেখতে অনেক বেশি পলিশড। সাথে আগের AUTO মোড তো আছেই — স্ট্রিম নিজে থেকেই ভিডিওর সাথে মিলে যায়।"}
+{
+  "versionCode": 13,
+  "versionName": "1.7.0",
+  "apkUrl": "https://github.com/ronyhosen2/rh-live-studio-updates/releases/latest/download/RHLiveStudio.apk",
+  "notesEn": "New premium look: deep indigo theme, glass cards\nGlossy 3D buttons with a nicer press feel\nLive stats panel is now dark glass\nPolished bottom navigation with a highlight pill\nAll features unchanged - AUTO mode included",
+  "notesBn": "নতুন প্রিমিয়াম লুক: গাঢ় ইন্ডিগো থিম, গ্লাস কার্ড\nগ্লসি 3D বাটন — চাপের ফিল আরও সুন্দর\nLive stats প্যানেল এখন ডার্ক গ্লাস\nনিচের নেভিগেশনে হাইলাইট পিলসহ পলিশড লুক\nফিচার সব আগের মতোই — AUTO মোডসহ"
+}
